@@ -13,7 +13,7 @@
     "csv": "^5.1.1",
     "csv-parser": "^2.3.0",
     "csv-writer": "^1.4.0",
-    "log4js": "^4.3.2",
+    "log4js": "^6.4.0",
     "moment": "^2.24.0",
     "readline-sync": "^1.4.9",
     "xml2js": "^0.4.19"
